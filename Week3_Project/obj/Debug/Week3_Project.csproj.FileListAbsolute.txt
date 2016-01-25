@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_Project\Week3_Project\bin\Debug\Week3_Project.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_Project\Week3_Project\bin\Debug\Week3_Project.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_Project\Week3_Project\bin\Debug\Week3_Project.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_Project\Week3_Project\obj\Debug\Week3_Project.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_Project\Week3_Project\obj\Debug\Week3_Project.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_Project\Week3_Project\obj\Debug\Week3_Project.pdb
